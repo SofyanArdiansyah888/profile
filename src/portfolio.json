@@ -56,7 +56,7 @@
     {
       "title": "Ternak Tani",
       "description": "Livestock is the big dream of the Indonesian people to participate in developing and advancing digital-based agriculture and animal husbandry.",
-      "src": "portfolio/apkternak.jpg",
+      "src": "portfolio/apkternak1.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.ternaktani.halowebpro",
       "type": "android",
       "icons": "<Icon.Bootstrap /><Icon.Wordpress />"
@@ -64,7 +64,7 @@
     {
       "title": "Messhall System",
       "description": "Barcode scan application for bosowa cement employee messhall",
-      "src": "portfolio/apkmesshall.jpg",
+      "src": "portfolio/apkmesshall1.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.semenbosowa.messhalkantin",
       "type": "android",
       "icons": "<Icon.Bootstrap /><Icon.Wordpress />"
@@ -72,7 +72,7 @@
     {
       "title": "Kalla Toyota Service",
       "description": "Kalla Services is the official application from Kalla Toyota as an official Toyota dealer authorized by PT. Toyota Astra Motor.",
-      "src": "portfolio/apkkalla.jpg",
+      "src": "portfolio/apkkalla1.jpg",
       "link": "https://play.google.com/store/apps/details?id=bm.kallafriend",
       "type": "android",
       "icons": "<Icon.Bootstrap /><Icon.Wordpress />"
@@ -80,7 +80,7 @@
     {
       "title": "JAC Express",
       "description": "JAC Express provides Same Day Delivery services with couriers operating within the city of Makassar, JAC comes with advantages that will make it easier for sellers and buyers that are packaged in one application and God willing.",
-      "src": "portfolio/apkjac_express.jpg",
+      "src": "portfolio/apkjac_express1.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.jacexpress.client",
       "type": "android",
       "icons": "<Icon.Bootstrap /><Icon.Wordpress />"
@@ -88,7 +88,7 @@
     {
       "title": "JAC Kurir",
       "description": "Let's spread happiness together through packages in Makassar city so that we arrive at our destination safely.",
-      "src": "portfolio/apkjac_kurir.jpg",
+      "src": "portfolio/apkjac_kurir1.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.jacexpress.kurir",
       "type": "android",
       "icons": "<Icon.Bootstrap /><Icon.Wordpress />"
@@ -96,7 +96,7 @@
     {
       "title": "HR App",
       "description": "This application is specifically for cement bosowa group employees who provide several HR modules such as Portal Applications, Messhall, Internship etc.",
-      "src": "portfolio/apkhrapp.jpg",
+      "src": "portfolio/apkhrapp1.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.bosowasemen.hrapp",
       "type": "android",
       "icons": "<Icon.Bootstrap /><Icon.Wordpress />"
@@ -104,7 +104,7 @@
     {
       "title": "Kalla Service",
       "description": "Kalla Services is the official application from Kalla Toyota as an official Toyota dealer authorized by PT. Toyota Astra Motor. ",
-      "src": "portfolio/ipakalla.jpg",
+      "src": "portfolio/ipakalla1.jpg",
       "link": "https://apps.apple.com/id/app/kalla-services/id1576058752?l=id",
       "type": "ios",
       "icons": "<Icon.Ionic />"
